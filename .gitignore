@@ -1,4 +1,6 @@
 test_images/
 
-flow_chart.*
+flow_chart.pdf
+*.odg
 
+*.odg#
